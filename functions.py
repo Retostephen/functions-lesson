@@ -24,9 +24,9 @@ is_even()
 #Conditionals
 #Operators
 #A function is just a set of instructions. a function musn't define anything, it can also execute a set of instruction which you musn't always write
-'''
 
 '''
+
 #Task 2: Ask the user for two numbers and calculate their sum
 def is_sum():
 	while True:
@@ -44,7 +44,7 @@ def is_sum():
 		except ValueError:
 			print("The value of the inputs are invalid")
 is_sum()
-'''
+
 
 
 '''
